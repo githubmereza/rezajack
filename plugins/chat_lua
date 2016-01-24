@@ -1,0 +1,164 @@
+local function run(msg)
+if msg.text == "ÈæÊ" then
+ return "åÇ"
+end
+if msg.text == "ÎæÈí" then
+ return "ÈÏ äíÓÊã"
+end
+if msg.text == "ÇÕá ÈÏå" then
+ return "ÈæÊ åÓÊã 1 ãÇåå ÇÒ ÓÑÒãíä ÊáÑÇã"
+end
+if msg.text == "ÓáÇã" then
+ return "Úáí˜ ÓáÇã"
+end
+if msg.text == "ÚÇÔÞÊã" then
+ return "Èå ãä å"
+end
+if msg.text == "ÓáÇã." then
+ return "ÓáÇã ÈÇÈÇíí"
+end
+if msg.text == "ÑÖÇ" then
+ return "ÈÇ ÈÇÈÇíí ãä í˜ÇÑ ÏÇÑí"
+end
+if msg.text == "Çå" then
+ return "ãÑÖ"
+end
+if msg.text == "Ìæä" then
+ return "áÇí ÇÊ ÈÇÏãÌæä"
+end
+if msg.text == "ÎÎÎÎ" then
+ return "äíÔ Êæ ÈÈäÏ"
+end
+if msg.text == "ÈæÊ ÇÝå" then
+ return "ÏÑæÛ äæ"
+end
+if msg.text == "ØæÑí" then
+ return "Êáã"
+end
+if msg.text == "?" then
+ return "í ãíí"
+end
+if msg.text == "ÝÚáÇ" then
+ return "ÈÚÏÇ ãíÈíäãÊ"
+end
+if msg.text == "ÈÇí" then
+ return "íÇÔå ÈÇí"
+endif msg.text == "ÈæÊ" then
+ return "åÇ"
+end
+if msg.text == "ÎæÈí" then
+ return "ÈÏ äíÓÊã"
+end
+if msg.text == "ÇÕá ÈÏå" then
+ return "ÈæÊ åÓÊã 1 ãÇåå ÇÒ ÓÑÒãíä ÊáÑÇã"
+end
+if msg.text == "ÓáÇã" then
+ return "Úáí˜ ÓáÇã"
+end
+if msg.text == "ÚÇÔÞÊã" then
+ return "Èå ãä å"
+end
+if msg.text == "ÓáÇã." then
+ return "ÓáÇã ÈÇÈÇíí"
+end
+if msg.text == "ÑÖÇ" then
+ return "ÈÇ ÈÇÈÇíí ãä í˜ÇÑ ÏÇÑí"
+end
+if msg.text == "Çå" then
+ return "ãÑÖ"
+end
+if msg.text == "Ìæä" then
+ return "áÇí ÇÊ ÈÇÏãÌæä"
+end
+if msg.text == "ÎÎÎÎ" then
+ return "äíÔ Êæ ÈÈäÏ"
+end
+if msg.text == "ÈæÊ ÇÝå" then
+ return "ÏÑæÛ äæ"
+end
+if msg.text == "ØæÑí" then
+ return "Êáã"
+end
+if msg.text == "?" then
+ return "í ãíí"
+end
+if msg.text == "ÝÚáÇ" then
+ return "ÈÚÏÇ ãíÈíäãÊ"
+end
+if msg.text == "ÈÇí" then
+ return "íÇÔå ÈÇí"
+endif msg.text == "ÈæÊ" then
+ return "åÇ"
+end
+if msg.text == "ÎæÈí" then
+ return "ÈÏ äíÓÊã"
+end
+if msg.text == "ÇÕá ÈÏå" then
+ return "ÈæÊ åÓÊã 1 ãÇåå ÇÒ ÓÑÒãíä ÊáÑÇã"
+end
+if msg.text == "ÓáÇã" then
+ return "Úáí˜ ÓáÇã"
+end
+if msg.text == "ÚÇÔÞÊã" then
+ return "Èå ãä å"
+end
+if msg.text == "ÓáÇã." then
+ return "ÓáÇã ÈÇÈÇíí"
+end
+if msg.text == "ÑÖÇ" then
+ return "ÈÇ ÈÇÈÇíí ãä í˜ÇÑ ÏÇÑí"
+end
+if msg.text == "Çå" then
+ return "ãÑÖ"
+end
+if msg.text == "Ìæä" then
+ return "áÇí ÇÊ ÈÇÏãÌæä"
+end
+if msg.text == "ÎÎÎÎ" then
+ return "äíÔ Êæ ÈÈäÏ"
+end
+if msg.text == "ÈæÊ ÇÝå" then
+ return "ÏÑæÛ äæ"
+end
+if msg.text == "ØæÑí" then
+ return "Êáã"
+end
+if msg.text == "?" then
+ return "í ãíí"
+end
+if msg.text == "ÝÚáÇ" then
+ return "ÈÚÏÇ ãíÈíäãÊ"
+end
+if msg.text == "ÈÇí" then
+ return "íÇÔå ÈÇí"
+end
+if msg.text == "!add" then
+ return "æÇíÓÇ ÇÒ ÈÇÈÇíí ÇÌÇÒå ÈíÑã ÈÚÏÇ"
+end
+if msg.text == "/add" then
+ return "æÇíÓÇ ÇÒ ÈÇÈÇíí ÇÌÇÒå ÈíÑã ÈÚÏÇ"
+end
+if msg.text == "add" then
+ return "æÇíÓÇ ÇÒ ÈÇÈÇíí ÇÌÇÒå ÈíÑã ÈÚÏÇ"
+end
+end
+
+return {
+ description = "Chat With Robot Server", 
+ usage = "chat with robot",
+ patterns = {
+  "^[Cc]hat$",
+  "^[Bb]ot$",
+  "^[Ss]lm$",
+  "^no$",
+  "^[Bb]ot$",
+  "^[Rr]obot$",
+  "^[Yy]es$",
+  "^?$",
+  "^[Oo]k$",
+  }, 
+ run = run,
+    —privileged = true,
+ pre_process = pre_process
+}
+end
